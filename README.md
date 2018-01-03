@@ -164,7 +164,7 @@ The _slightly_ longer version:
         libdb4.8-dev libdb4.8++-dev build-essential \
         libtool autotools-dev automake pkg-config libssl-dev libevent-dev \
         bsdmainutils git libboost-all-dev libminiupnpc-dev libqt5gui5 \
-        libqt5core5a libqt5webkit5-dev libqt5dbus5 qttools5-dev \
+        libqt5core5a libqt5dbus5 libevent-dev qttools5-dev \
         qttools5-dev-tools libprotobuf-dev protobuf-compiler libqrencode-dev
     ```
 
